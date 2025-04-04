@@ -25,4 +25,14 @@ pkg install termux-api
 * Termux
 * É Um espaco de armazenamento alto
 
-# Happy Hacking
+# Ativar A Tool
+
+```
+git clone https://github.com/09276HDUv/AnarcyLinux.git
+```
+
+# Executar
+
+```
+./Anarchy.sh
+```
