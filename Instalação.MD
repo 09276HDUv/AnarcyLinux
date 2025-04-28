@@ -34,5 +34,5 @@ git clone https://github.com/09276HDUv/AnarcyLinux.git
 # Executar
 
 ```
-./kali_anarchyms_belly.sh
+./anarchylinux.sh
 ```
